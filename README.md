@@ -11,15 +11,17 @@ With 7+ years of experience in mobile development, I specialize in Swift, React 
 A community-driven social platform enabling users to connect and share interests.
 
 <p align="center">
-<img src="https://github.com/tqloc0311/portfolio/assets/12205544/440abb64-e4c2-4ecb-acd8-430be5ad5a13" width="150"/>
-<img src="https://github.com/tqloc0311/portfolio/assets/12205544/83750add-5407-44c9-8eb3-dadd3f505090" width="150"/>
-<img src="https://github.com/tqloc0311/portfolio/assets/12205544/ca06d3f7-3c2e-4d4a-b1d2-69479e4b3148" width="150"/>
+<img src="https://github.com/tqloc0311/portfolio/assets/12205544/a87701fb-2ffc-4e79-89ae-78889e6e71ca" width="150"/>
+<img src="https://github.com/tqloc0311/portfolio/assets/12205544/3be10f3f-856e-4bed-b62e-41beda118271" width="150"/>
+<img src="https://github.com/tqloc0311/portfolio/assets/12205544/53a9d289-22e1-4caa-81c2-7e1cd1a67eeb" width="150"/>
+<img src="https://github.com/tqloc0311/portfolio/assets/12205544/85017154-00cc-4dda-9028-5cee65e9bdc4" width="150"/>
+<img src="https://github.com/tqloc0311/portfolio/assets/12205544/f2af4426-cd85-4709-8052-ceec08fbdfaa" width="150"/>
 </p>
 
 **Key Achievements**
 
 - 📈 Improved app performance by 40% through optimization
-- 🎯 Led development of key social features
+- 🎯 Led the development of key social features
 - ⚡️ Implemented features related to content creator
 - 🛠️ **Tech Stack**: React Native, Zustand, SocketIO, Sentry, Mixpannel, Growthbook
 
