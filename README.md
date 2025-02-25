@@ -149,7 +149,7 @@ Want to collaborate? Reach out to me!
 
 📧 Email: [tqloc0311@gmail.com](mailto:tqloc0311@gmail.com)  
 🌐 LinkedIn: [linkedin.com/in/loctq/](https://https://www.linkedin.com/in/loctq/)  
-📱 Phone: [0347.845.050](tel:+84923241345)
+📱 Phone: [0347.845.505](tel:+84347845505)  
 💬 Zalo: [0923.241.345](http://zaloapp.com/qr/p/z2byfija40tn)
 
 ---
